@@ -10,3 +10,4 @@ Tablet (768px–1023px): Layout adjusts, cards may stack in two columns, section
 Mobile (≤767px): All content stacks in a single column, hero text appears above the profile image. Use browser resize or device emulation tools to test responsiveness.​
 
 This README is compact, clear, and gives reviewers all essential information and tested breakpoints.
+<img width="487" height="454" alt="image" src="https://github.com/user-attachments/assets/63956fd1-7056-4a91-acc0-a55eab95c80d" />
